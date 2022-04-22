@@ -10,6 +10,8 @@ Tasks:
 - [X] Weather for next 6 hours
 - [X] 7-DAY forecast
 - [X] Weather details 
+- [X] Search location
 - [X] Localization (Ru/Us)
 - [ ] Cache 
+- [ ] Last update
 - [ ] Internet connection check
