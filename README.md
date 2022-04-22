@@ -11,5 +11,5 @@ Tasks:
 - [X] 7-DAY forecast
 - [X] Weather details 
 - [X] Localization (Ru/Us)
-- [] Cache 
-- [] Internet connection check
+- [ ] Cache 
+- [ ] Internet connection check
