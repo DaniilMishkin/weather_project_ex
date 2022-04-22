@@ -12,6 +12,7 @@ Tasks:
 - [X] Weather details 
 - [X] Search location
 - [X] Localization (Ru/Us)
+- [X] Lottie
 - [ ] Cache 
 - [ ] Last update
 - [ ] Internet connection check
