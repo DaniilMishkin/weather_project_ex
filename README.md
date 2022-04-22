@@ -16,3 +16,4 @@ Tasks:
 - [ ] Cache 
 - [ ] Last update
 - [ ] Internet connection check
+- [ ] BLoC
