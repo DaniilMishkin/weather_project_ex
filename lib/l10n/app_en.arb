@@ -30,6 +30,6 @@
   "sunday": "Sunday",
   "locationDenied": "You need to give location permission to use the application.",
   "locationDeniedForever": "You need to give location permission to use the application. Please give Location permission in application settings.",
-  "units": "",
+  "units": "imperial",
   "lastUpdate": "Last update"
 }
